@@ -1,0 +1,1 @@
+CREATE SCHEMA shortener_url;
