@@ -13,7 +13,7 @@ Caso contrário, será necesário uma instância local do MySQL rodando local.
 As configurações devem ser mudadas no arquivo `application.properties`
 
 ## Endpoints
-As definições dos endpoints podem ser checkadas no [swagger](http://localhost:8080/swagger-ui/index.html).
+As definições dos endpoints podem ser checkadas no [swagger](http://localhost:8080/swagger-ui/index.html) com o serviço em execução.
 
 
 ## Algumas observações
