@@ -9,7 +9,7 @@ docker-compose build --no-cache
 docker-compose up -d
 ```
 
-Caso contrário, será necesário uma instância local do MySQL rodando local.
+Caso contrário, será necesário uma instância local do MySQL.
 As configurações devem ser mudadas no arquivo `application.properties`
 
 ## Endpoints
